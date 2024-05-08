@@ -1,6 +1,6 @@
 <h1 align="center"><code> Olá, me chamo Antonio Henrique 👋 </code></h1>
 <h3 align="center"><code>Desenvolvedor Fullstack.</code></h3>
-<h3 align="center"><code>🔭 Atualmente trabalhando na Visdom</code></h3>
+<h3 align="center"><code>🔭 Atualmente trabalhando na Visdom - Tecnologia da Informação e Comunicação</code></h3>
 
 
 <h3 align="rigth"><code>## Contatos</code></h3>
